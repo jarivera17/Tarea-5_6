@@ -117,3 +117,9 @@ Informe : Tarea 3 y 4
 
   ![image](https://user-images.githubusercontent.com/116693260/203155297-4fa5a31f-d627-49a8-b26d-033c20578f06.png)
 
+  SECCIÓN 5–5 Fuentes de voltaje en serie
+
+  28. El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
+
+  ![image](https://user-images.githubusercontent.com/116693260/203158057-a029dde0-9c41-4382-a77d-43e410eb2b7d.png)
+
