@@ -115,3 +115,5 @@ Informe : Tarea 3 y 4
   
   ![image](https://user-images.githubusercontent.com/116693260/203151657-ca607dcf-772e-4664-ad69-9ec924cf41a8.png)
 
+  ![image](https://user-images.githubusercontent.com/116693260/203155297-4fa5a31f-d627-49a8-b26d-033c20578f06.png)
+
