@@ -169,4 +169,7 @@ Informe : Tarea 3 y 4
 
   SECCIÓN 5–8 Potencia en circuitos en serie
   
+  46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total? 
   
+  ![image](https://user-images.githubusercontent.com/116693260/203180082-c1d4071a-c8f9-43da-9d94-998dd225bb69.png)
+
