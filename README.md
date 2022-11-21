@@ -132,3 +132,10 @@ Informe : Tarea 3 y 4
   32. Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
   
   ![image](https://user-images.githubusercontent.com/116693260/203159321-90f65869-9cc6-4f59-9f06-3f8d7cd858e5.png)
+  
+  34. Encuentre R1 , R2 y R3 en la figura 5-82. 
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203162162-1f83755f-d971-4d38-a652-681e3b2c010c.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203164960-b03be98a-8a8d-4e25-809c-7084e9cd353b.png)
+
