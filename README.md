@@ -139,3 +139,16 @@ Informe : Tarea 3 y 4
 
   ![image](https://user-images.githubusercontent.com/116693260/203164960-b03be98a-8a8d-4e25-809c-7084e9cd353b.png)
 
+  36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor. 
+
+  ![image](https://user-images.githubusercontent.com/116693260/203166317-6388331c-cee5-4b9b-970a-0b99c9000ce2.png)
+
+  SECCIÓN 5–7 Divisores de voltaje
+
+  38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203168073-a7f22dd2-190d-4e64-894e-cc6fd49e968b.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203169959-280acf7d-0506-4cb7-81c7-7ce5e8efdbfd.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203169877-149a7eda-6253-4214-afbb-258a1903d583.png)
