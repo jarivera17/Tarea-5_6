@@ -45,3 +45,20 @@ Informe : Tarea 3 y 4
   ![Circuito 1 5](https://user-images.githubusercontent.com/116693260/203089792-2c478f37-65f4-4538-9fd1-7648f73ca3f2.jpg)
   
   ![Circuito 1 6](https://user-images.githubusercontent.com/116693260/203089794-acf49e09-1293-4395-a7fa-f65d85a7b6ef.jpg)
+
+  !!COMPLETAR
+  4.Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.
+  
+  SECCIÓN 5–2 Corriente en un circuito en serie
+
+  6. ¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Ω?
+
+  ![image](https://user-images.githubusercontent.com/116693260/203127186-17cedae7-6568-4cdc-8dcd-638028003ced.png)
+  
+  8. Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?
+  
+  ![Circuito 8 1](https://user-images.githubusercontent.com/116693260/203127485-28f96f9f-77c3-4634-ae62-773a9395c61d.jpg)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203127548-8d6311f1-d0d5-4ba5-a92d-745d7cfb011f.png)
+
+
