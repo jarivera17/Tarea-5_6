@@ -152,3 +152,9 @@ Informe : Tarea 3 y 4
   ![image](https://user-images.githubusercontent.com/116693260/203169959-280acf7d-0506-4cb7-81c7-7ce5e8efdbfd.png)
 
   ![image](https://user-images.githubusercontent.com/116693260/203169877-149a7eda-6253-4214-afbb-258a1903d583.png)
+  
+  40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203170657-71d1fc1e-620e-47f0-96bb-e3bb63a51616.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203173235-fb20b1bc-b4ac-4168-8a40-9e9816920bad.png)
