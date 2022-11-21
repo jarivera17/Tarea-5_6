@@ -61,4 +61,44 @@ Informe : Tarea 3 y 4
 
   ![image](https://user-images.githubusercontent.com/116693260/203127548-8d6311f1-d0d5-4ba5-a92d-745d7cfb011f.png)
 
+  SECCIÓN 5–3 Resistencia total en serie 
 
+  10.Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 Ω, 2.2 Ω, 5.6 Ω,12 Ω, y 22 Ω. Determine la resistencia total.
+
+  ![image](https://user-images.githubusercontent.com/116693260/203127716-9df70685-383c-44a2-86f1-bb00df119b1f.png)
+
+  12.Calcule la RT en cada circuito de la figura 5-71. 
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203127824-72175c6f-561b-4d8c-86bd-bbc14bfbd45d.png)
+  
+  14.Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total?
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203127889-ec5ea4ba-e42c-430b-9081-601d76f85803.png)
+
+  *16.Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 Ω, 100 Ω, 470 Ω, 560 Ω, 680 Ω, 1.0 Ω, 2.2 Ω, y 5.6 Ω. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 kΩ. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?
+  
+   ![image](https://user-images.githubusercontent.com/116693260/203128013-74424b5b-35b0-4555-8456-e9323b3a30b7.png)
+
+  18.En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203128079-0ffb9f0a-6976-4283-bab7-3f7b0ae1e03a.png)
+
+  SECCIÓN 5–4 Aplicación de la ley de Ohm
+  
+  20.Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
+
+  ![image](https://user-images.githubusercontent.com/116693260/203128168-d117c7ec-6bcd-4628-98d4-5d8f05c4833f.png)
+
+  22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
+
+  ![image](https://user-images.githubusercontent.com/116693260/203128234-c79d0382-9385-4633-90d0-cf5f3de35a45.png)
+
+  24.Determine VR1, R2y R3 en la figura 5-76.
+
+  ![image](https://user-images.githubusercontent.com/116693260/203128321-ce33c13a-24b0-4222-8837-3958b284f0be.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203128362-ba60d751-c4f1-4f58-bd6e-b24f2e4e55e6.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203128407-791dcbc7-4b45-493e-8db8-51bbd71f1bee.png)
+
+  26.Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
