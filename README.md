@@ -123,3 +123,12 @@ Informe : Tarea 3 y 4
 
   ![image](https://user-images.githubusercontent.com/116693260/203158057-a029dde0-9c41-4382-a77d-43e410eb2b7d.png)
 
+  SECCIÓN 5–6 Ley del voltaje de Kirchhoff
+
+  30. Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores? 
+
+  ![image](https://user-images.githubusercontent.com/116693260/203159215-d1f0fcde-2bac-466e-973d-afb45c7c9fd7.png)
+
+  32. Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203159321-90f65869-9cc6-4f59-9f06-3f8d7cd858e5.png)
