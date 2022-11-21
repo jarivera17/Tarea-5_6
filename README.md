@@ -158,3 +158,9 @@ Informe : Tarea 3 y 4
   ![image](https://user-images.githubusercontent.com/116693260/203170657-71d1fc1e-620e-47f0-96bb-e3bb63a51616.png)
 
   ![image](https://user-images.githubusercontent.com/116693260/203173235-fb20b1bc-b4ac-4168-8a40-9e9816920bad.png)
+  
+   42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
+
+  ![image](https://user-images.githubusercontent.com/116693260/203173407-cdc89ad4-efc6-4c3a-ade6-f1deb3f4f4d5.png)
+
+  
