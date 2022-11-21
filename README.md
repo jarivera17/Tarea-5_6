@@ -162,5 +162,11 @@ Informe : Tarea 3 y 4
    42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
 
   ![image](https://user-images.githubusercontent.com/116693260/203173407-cdc89ad4-efc6-4c3a-ade6-f1deb3f4f4d5.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203179690-3391efb7-0028-42e3-87c9-0bccb53007f6.png)
 
+  *44. Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V,
+
+  SECCIÓN 5–8 Potencia en circuitos en serie
+  
   
