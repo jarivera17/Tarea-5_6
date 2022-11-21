@@ -34,6 +34,8 @@ Informe : Tarea 3 y 4
 
   2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
   
+  ![image](https://user-images.githubusercontent.com/116693260/203151095-22d929fd-00e2-48b2-9786-a3d178bfdb10.png)
+  
   ![Circuito 1 1](https://user-images.githubusercontent.com/116693260/203089763-d0e2c6af-10fe-4acd-ae50-02dbf932d043.jpg)
   
   ![Circuito 1 2](https://user-images.githubusercontent.com/116693260/203089788-e10b6005-e459-4234-8077-c7e79c01e625.jpg)
@@ -69,6 +71,8 @@ Informe : Tarea 3 y 4
 
   12.Calcule la RT en cada circuito de la figura 5-71. 
   
+  ![image](https://user-images.githubusercontent.com/116693260/203151273-5e01a90d-6b00-410a-a4b2-026526ae3eaf.png)
+  
   ![image](https://user-images.githubusercontent.com/116693260/203127824-72175c6f-561b-4d8c-86bd-bbc14bfbd45d.png)
   
   14.Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total?
@@ -81,11 +85,15 @@ Informe : Tarea 3 y 4
 
   18.En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
   
+  ![image](https://user-images.githubusercontent.com/116693260/203151354-5bc9eedd-96fb-4198-a1b4-00e9da1d1c4b.png)
+  
   ![image](https://user-images.githubusercontent.com/116693260/203128079-0ffb9f0a-6976-4283-bab7-3f7b0ae1e03a.png)
 
   SECCIÓN 5–4 Aplicación de la ley de Ohm
   
   20.Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203151433-348c8821-68c7-4ba3-9903-e7addba237e6.png)
 
   ![image](https://user-images.githubusercontent.com/116693260/203128168-d117c7ec-6bcd-4628-98d4-5d8f05c4833f.png)
 
@@ -94,6 +102,8 @@ Informe : Tarea 3 y 4
   ![image](https://user-images.githubusercontent.com/116693260/203128234-c79d0382-9385-4633-90d0-cf5f3de35a45.png)
 
   24.Determine VR1, R2y R3 en la figura 5-76.
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203151598-bb3dc639-16da-42f0-876f-9aee8a4ef7f8.png)
 
   ![image](https://user-images.githubusercontent.com/116693260/203128321-ce33c13a-24b0-4222-8837-3958b284f0be.png)
   
@@ -102,3 +112,6 @@ Informe : Tarea 3 y 4
   ![image](https://user-images.githubusercontent.com/116693260/203128407-791dcbc7-4b45-493e-8db8-51bbd71f1bee.png)
 
   26.Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203151657-ca607dcf-772e-4664-ad69-9ec924cf41a8.png)
+
