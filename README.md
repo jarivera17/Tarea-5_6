@@ -223,6 +223,8 @@ Informe : Tarea 3 y 4
 
   4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Ω? Hay cuatro resistores, todos de igual valor.
 
+  ![image](https://user-images.githubusercontent.com/116693260/203391119-e40c3f6f-6490-474a-abb6-11315f50b639.png)
+  
   6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?
 
   ![image](https://user-images.githubusercontent.com/116693260/203384797-2e4a82a0-065a-4082-b245-64988b469261.png)
@@ -231,4 +233,13 @@ Informe : Tarea 3 y 4
 
   8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
 
+  ![image](https://user-images.githubusercontent.com/116693260/203386979-55a30cd0-7d53-442c-8904-bfab9afedbca.png)
   
+  ![image](https://user-images.githubusercontent.com/116693260/203393799-6730cd34-4cba-4522-be33-71f3a5890bda.png)
+
+  SECCIÓN 6–3 Ley de las corrientes de Kirchhoff 
+  
+  10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de:
+50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
+
+  ![image](https://user-images.githubusercontent.com/116693260/203396941-3989f34a-5e63-4f61-9e43-673f6820052c.png)
