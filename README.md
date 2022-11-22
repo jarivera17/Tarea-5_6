@@ -25,6 +25,12 @@ Informe : Tarea 3 y 4
   ![5](https://user-images.githubusercontent.com/116693260/203118566-a0136833-3ed1-4a3c-8ec8-4270efb65b45.jpg)
   
   ![6](https://user-images.githubusercontent.com/116693260/203118570-e56524e1-41b1-4ecb-a481-552f59abb3fe.jpg)
+
+  ![7](https://user-images.githubusercontent.com/116693260/203378889-eede52e1-c994-44fc-aa0a-7624525e858a.jpg)
+
+  ![8](https://user-images.githubusercontent.com/116693260/203378903-b7955b29-bb67-4d54-abf9-c887f84598e3.jpg)
+  
+  ![9](https://user-images.githubusercontent.com/116693260/203378906-c061097e-33b8-4459-a1c5-9dd28b7a89b6.jpg)
   
   3. EXPLICACION Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
   
