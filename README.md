@@ -34,7 +34,7 @@ Informe : Tarea 3 y 4
   
   3. EXPLICACION Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
   
-  PROBLEMAS CAPÍTULO 1
+  PROBLEMAS CAPÍTULO 5
 
   SECCIÓN 5–1 Resistores en serie
 
@@ -209,7 +209,26 @@ Informe : Tarea 3 y 4
 
   ![image](https://user-images.githubusercontent.com/116693260/203224499-5121c6d7-1855-4e5c-a510-0d4c67a3417e.png)
 
+  PROBLEMAS CAPÍTULO 6
 
+  SECCIÓN 6–1 Resistores en paralelo 
+
+  2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso. 
   
+  ![image](https://user-images.githubusercontent.com/116693260/203380182-c67654a5-bcd8-4563-aa04-360b527fc4d8.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203382343-909488c5-0830-41da-89bc-e9d9d6c04e73.png)
+
+  SECCIÓN 6–2 Voltaje en un circuito en paralelo
+
+  4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Ω? Hay cuatro resistores, todos de igual valor.
+
+  6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?
+
+  ![image](https://user-images.githubusercontent.com/116693260/203384797-2e4a82a0-065a-4082-b245-64988b469261.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203385996-59e45212-463f-4ac4-bdee-b3839239c146.png)
+
+  8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
 
   
