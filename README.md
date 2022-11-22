@@ -190,3 +190,9 @@ Informe : Tarea 3 y 4
   ![image](https://user-images.githubusercontent.com/116693260/203216055-847e8561-d1bb-4110-805e-99353d9e278b.png)
   
   ![image](https://user-images.githubusercontent.com/116693260/203216230-510e615a-04d8-4320-96e7-8a81588ea7d7.png)
+  
+  SECCIÓN 5–10 Localización de fallas 
+
+  54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2 . ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
+
+  
