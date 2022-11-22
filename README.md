@@ -173,3 +173,8 @@ Informe : Tarea 3 y 4
   
   ![image](https://user-images.githubusercontent.com/116693260/203180082-c1d4071a-c8f9-43da-9d94-998dd225bb69.png)
 
+  48. Los siguientes resistores de 1 ⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+
+  50. Cierto circuito en serie se compone de un resistor de 1 ⁄8 W, un resistor de 1 ⁄4 W, y un resistor de 1 ⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente: 
+
+  (a) I	(b) VT	(c) El valor de cada resistor
