@@ -178,3 +178,15 @@ Informe : Tarea 3 y 4
   50. Cierto circuito en serie se compone de un resistor de 1 ⁄8 W, un resistor de 1 ⁄4 W, y un resistor de 1 ⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente: 
 
   (a) I	(b) VT	(c) El valor de cada resistor
+
+  SECCIÓN 5–9 Mediciones de voltaje
+
+  52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
+
+  ![image](https://user-images.githubusercontent.com/116693260/203209802-7fd3f373-9cd8-4bcf-8ba9-65d6940d1046.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203216006-b69e8fa3-d790-422b-bdb5-963b1027a841.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203216055-847e8561-d1bb-4110-805e-99353d9e278b.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203216230-510e615a-04d8-4320-96e7-8a81588ea7d7.png)
