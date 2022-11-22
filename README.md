@@ -195,4 +195,15 @@ Informe : Tarea 3 y 4
 
   54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2 . ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
 
+  ![image](https://user-images.githubusercontent.com/116693260/203219805-6cbfd2aa-e0a5-435c-ba0a-3d56a913f59a.png)
+  
+  56. ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
+
+  ![image](https://user-images.githubusercontent.com/116693260/203224100-462d8cea-35f2-4bab-86c7-d341622bc2cc.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203224499-5121c6d7-1855-4e5c-a510-0d4c67a3417e.png)
+
+
+  
+
   
