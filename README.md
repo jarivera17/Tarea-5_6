@@ -284,3 +284,6 @@ Informe : Tarea 3 y 4
 
   ![image](https://user-images.githubusercontent.com/116693260/203460262-62d5ac8e-13e8-486c-95f8-a93580c17f28.png)
 
+  ![image](https://user-images.githubusercontent.com/116693260/203464285-19db3857-82a4-474b-b4eb-ff31ae5d5a20.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203464214-cdb7dc5c-88ab-45a6-9229-8bfde7614488.png)
