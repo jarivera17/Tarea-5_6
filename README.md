@@ -287,3 +287,15 @@ Informe : Tarea 3 y 4
   ![image](https://user-images.githubusercontent.com/116693260/203464285-19db3857-82a4-474b-b4eb-ff31ae5d5a20.png)
 
   ![image](https://user-images.githubusercontent.com/116693260/203464214-cdb7dc5c-88ab-45a6-9229-8bfde7614488.png)
+  
+  28. Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76.
+
+  ![image](https://user-images.githubusercontent.com/116693260/203464396-092f50a3-b47e-4efd-aa79-04a3213313a1.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203468255-33c3cdc9-ca8f-4c6c-b47c-67e82f7e3c3f.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203468337-3ade89e9-5c54-4254-a33e-e2d1c5f0bfac.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203468424-a7cf94fe-8c2f-4b6b-95f9-b67b911333cb.png)
+
+
