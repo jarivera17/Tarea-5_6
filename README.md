@@ -391,7 +391,21 @@ Informe : Tarea 3 y 4
   
   5. CONCLUSIONES
 
-  * 
+  * Se ha estudiado completamente los capítulos 5 y 6 el libro "Principios de circuitos eléctricos" de Floyd, y de tal forma, se ha comprendido: definiciones, fórmulas y aplicaciones de los temas y subtemas correspondientes, como tal a "Circuitos en serie" y "Circuitos en paralelo".
+
+  * En síntesis se ha aprendido a identificar los circuitos en serie y los circuitos en paralelo, se ha conocido cada característica de estos, principalmente, en los circuitos resistivos en serie cada resistor se coloca uno a continuación de otro, la intesidad es la misca en cada resistor y el voltaje se divide; en cuanto a los circuitos en paralelo, cada resistor se coloca de forma individual en distintos puntos, la intensidad es distinta y el voltaje se divide.
+
+  * Se ha determinado que, en cada tipo de circuitos, la forma en la cual se lleva a cabo el cálculo de intensidad, resistencia y voltaje, es diferente, y por tanto, cada fórmula aplicada también es distinta; identificando así, en qué casos se aplica una sumatoria algebráica para los cálculos respectivos, o cuándo se aplica una fórmula específica.
+
+  * Se ha aprendido la forma de llevar a cabo la medición de voltaje en un circuito en serie, utilizando un voltímetro sin conectarlo de forma directa al resistor, sino, con respecto a tierra y cada uno de los extremos del resistor (puntos A y B), para finalmente aplicar la siguiente fórmula con las lecturas del voltímetro: VR = VA - VB.      
+
+  * En síntesis, se ha identificado que tanto para los circuitos en serie, como para los circuitos en paralelo, la forma de calcular la potencia, es la misma; aplicando una sumatoria de potencias de todos los resistores individuales.
+
+  * En síntesis, se ha aprendido acerca de la división de voltaje y la división de corriente; y se ha podido determinar que sus respectivas fórmulas permiten hallar de forma rápida el valor de voltaje e intensidad de cualquier resistor en un circuito.      
+
+  * Se ha denotado que las leyes de Kirchhoff, de voltaje e intensidad, y su aplicación práctica, permiten hallar de forma sencilla, mediante una sumatoria y posterior despeje, el voltaje en un circuito en serie, y la intensidad en un circuito en paralelo.
+
+ * Finalmente, se a apendido a indentificar cuándo un circuito en serie o en paralelo está abierto o en corto circuito, denotando aspectos como el valor de la resistencia e intensidad que se obtienen es estos casos, para así, hallar el resistor fundido o dañanado.
 
   6. BIBLIOGRAFÍA
   
