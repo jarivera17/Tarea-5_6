@@ -302,3 +302,35 @@ Informe : Tarea 3 y 4
 
   30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78. 
 
+  ![image](https://user-images.githubusercontent.com/116693260/203549073-9458fbc0-0d28-4937-a28d-5192282ecff2.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203551388-4712d28b-6afa-4a23-8002-a968648405cc.png)
+
+  SECCIÓN 6–7 Divisores de corriente 
+
+  32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
+
+  ![image](https://user-images.githubusercontent.com/116693260/203551879-365e43f9-ff8e-428f-9f1c-60ee9f10681c.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203553538-8ca343c5-1108-4de3-b378-e2663b81402c.png)
+
+  34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.
+   
+   ![image](https://user-images.githubusercontent.com/116693260/203554402-0494f870-3b0f-4d48-a756-b9c40676c40e.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203555969-3f5e05e6-7f0b-4871-9f3a-1888605d3eec.png)
+
+  *36. (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω.
+  (b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM = 50 Ω).
+  
+  SECCIÓN 6–8 Potencia en circuitos en paralelo 
+
+  38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
+
+  ![image](https://user-images.githubusercontent.com/116693260/203566779-b173fd5a-14af-4d01-be75-fbd5877662bd.png)
+
+  40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
+
+  ![image](https://user-images.githubusercontent.com/116693260/203569172-97425c05-c837-47a9-9df4-25935f3a960d.png)
+  
+  
