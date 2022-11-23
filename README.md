@@ -243,3 +243,25 @@ Informe : Tarea 3 y 4
 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
 
   ![image](https://user-images.githubusercontent.com/116693260/203396941-3989f34a-5e63-4f61-9e43-673f6820052c.png)
+
+  *12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
+  
+  SECCIÓN 6–4 Resistencia total en paralelo
+
+  14. Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total. 
+
+  ![image](https://user-images.githubusercontent.com/116693260/203452803-b48a7443-9a04-4b5a-94e1-ecaf20402cd7.png)
+
+  16. Calcule RT en cada uno de los circuitos de la figura 6-70.
+
+  ![image](https://user-images.githubusercontent.com/116693260/203452981-7a1dc248-f628-4990-97ba-c94cd1f9251c.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203453711-3eb796f1-3087-49d8-9a54-d3b12a37ab63.png)
+
+  18. Tres grupos, uno de cinco resistores de 470 Ω, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?
+
+  ![image](https://user-images.githubusercontent.com/116693260/203455376-ec6d2f3b-1c79-49dd-8b62-0a21abcf954b.png)
+
+  20. Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203456690-2be07b03-4a22-4d9f-aad0-0ffbfabbf2cd.png)
