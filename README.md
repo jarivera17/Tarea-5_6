@@ -333,4 +333,32 @@ Informe : Tarea 3 y 4
 
   ![image](https://user-images.githubusercontent.com/116693260/203569172-97425c05-c837-47a9-9df4-25935f3a960d.png)
   
+  *42. Cierto circuito en paralelo está compuesto por resistores de sólo 1 ⁄2 W. La resistencia total es de 1.0 kΩ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente: 
+
+  (a) El número de resistores		(b) El valor de cada resistor 
+  (c) La corriente en cada rama 	(d) El voltaje aplicado
   
+  ![image](https://user-images.githubusercontent.com/116693260/203627107-a452912c-d97e-44ce-b3c8-3621ed5fddc1.png)
+
+  SECCIÓN 6–10 Localización de fallas
+
+  44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203627422-207c6b0e-5fc0-4f2b-a47e-acb49ec1b9ce.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203632660-962ca9b0-e4e4-4a33-a475-8944be284c60.png)
+  
+  46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203632872-10074e5d-641a-40a4-b859-d376cebe900e.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203635510-a5277ef1-6f9a-41f1-9659-1c8e8879fbc1.png)
+
+  *48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:
+
+  (a) 1 y 2	  (b) 2 y 3	  (c) 3 y 4	  (d) 1 y 4
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203636074-40f83d80-ed3c-4de3-9356-051bf850ba09.png)
+
+
+
