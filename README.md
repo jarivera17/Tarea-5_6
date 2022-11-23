@@ -298,4 +298,7 @@ Informe : Tarea 3 y 4
 
   ![image](https://user-images.githubusercontent.com/116693260/203468424-a7cf94fe-8c2f-4b6b-95f9-b67b911333cb.png)
 
+  SECCIÓN 6–6 Fuentes de corriente en paralelo 
+
+  30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78. 
 
