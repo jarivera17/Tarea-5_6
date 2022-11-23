@@ -265,3 +265,22 @@ Informe : Tarea 3 y 4
   20. Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?
   
   ![image](https://user-images.githubusercontent.com/116693260/203456690-2be07b03-4a22-4d9f-aad0-0ffbfabbf2cd.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203457168-35296bf5-e137-4db5-a0a7-8a1323f67ba0.png)
+
+  SECCIÓN 6–5 Aplicación de la ley de Ohm
+  
+  22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
+
+  ![image](https://user-images.githubusercontent.com/116693260/203457282-99a0555a-1f40-497c-a13e-8b7c9fe7a2c5.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203459320-622ecf76-b725-4623-9a41-6fd851bd173d.png)
+
+  24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor? 
+  
+  ![image](https://user-images.githubusercontent.com/116693260/203460046-ca5a7f09-e63a-4ab0-9d69-eb8fb1256a88.png)
+  
+  26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.
+
+  ![image](https://user-images.githubusercontent.com/116693260/203460262-62d5ac8e-13e8-486c-95f8-a93580c17f28.png)
+
