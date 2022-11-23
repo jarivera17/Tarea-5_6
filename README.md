@@ -10,7 +10,34 @@ Informe : Tarea 3 y 4
 
   OBJETIVO GENERAL
   
+  Estudiar y comprender la base teórica y a su vez, resolver los ejercicios de aplicación de los capítulos 3 y 4 del libro "Principios de circuitos eléctricos" de Floyd, a los cuales corresponden los temas: "Circuitos en serie" y "Circuitos en paralelo", analizando cada subtema respectivo, en lo que involucra: definiciones, fórmulas y aplicaciones.  
+  
   OBJETIVOS ESPECÍFICOS
+
+  * Identificar un circuito resistivo en serie, concer su definición y características; aprender a determinar su corriente, resistencia total y cómo aplicar la ley de Ohm en este tipo de circuitos.
+
+  * Conocer y determinar el efecto total de fuentes de voltaje conectadas en serie, así como, estudiar y aplicar la ley del voltaje de Kirchhoff.
+  
+  * Aprender sobre los divisores de voltaje y la forma de tilizar un circuito en serie como divisor de voltaje.
+
+  * Analizar y determinar la potencia en un circuito en serie.
+
+  * Aprender a realizar mediciones voltaje con respecto a tierra.
+
+  * Estudiar y comprender el método y procedimiento de localización de fallas en circuitos en serie.   
+ 
+  * Identificar un circuito resistivo en paralelo, conocer sus características y conceptos inmersos; y a su vez, aprender la forma apropiada para determinar el voltaje en cada rama del circuto, resistencia total y cómo aplicar la ley de Ohm en este tipo de circuitos.
+
+  * Conocer la definición, características y aplicación de la ley de la corriente de Kirchhoff.
+
+  * Aprender acerca de las fuentes de corriente en paralelo y su efecto en los circuitos respectivos.
+
+  * Determinar qué es un divisor de corriente y la forma de utilizar un circuito en paralelo como tal.
+
+  * Analizar y determinar la potencia en un circuito en paralelo.
+
+  * Estudiar y comprender el método y procedimiento de localización de fallas en circuitos en paralelo.
+
 
   2. MARCO TEÓRICO (RESUMEN)
 
@@ -360,5 +387,12 @@ Informe : Tarea 3 y 4
   
   ![image](https://user-images.githubusercontent.com/116693260/203636074-40f83d80-ed3c-4de3-9356-051bf850ba09.png)
 
+  4. VIDEO EXPLICATIVO
+  
+  5. CONCLUSIONES
 
+  * 
 
+  6. BIBLIOGRAFÍA
+  
+  * Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
