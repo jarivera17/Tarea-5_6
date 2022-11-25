@@ -128,7 +128,7 @@ Informe : Tarea 3 y 4
   
   ![image](https://user-images.githubusercontent.com/116693260/203151433-348c8821-68c7-4ba3-9903-e7addba237e6.png)
 
-  ![image](https://user-images.githubusercontent.com/116693260/203128168-d117c7ec-6bcd-4628-98d4-5d8f05c4833f.png)
+  ![image](https://user-images.githubusercontent.com/116693260/204039122-da9b9a7c-5a97-4a74-b44b-21fb851e3857.png)
 
   22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
 
@@ -381,13 +381,9 @@ Informe : Tarea 3 y 4
 
   ![image](https://user-images.githubusercontent.com/116693260/203635510-a5277ef1-6f9a-41f1-9659-1c8e8879fbc1.png)
 
-  *48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:
-
-  (a) 1 y 2	  (b) 2 y 3	  (c) 3 y 4	  (d) 1 y 4
-  
-  ![image](https://user-images.githubusercontent.com/116693260/203636074-40f83d80-ed3c-4de3-9356-051bf850ba09.png)
-
   4. VIDEO EXPLICATIVO
+  
+  https://uespe-my.sharepoint.com/:v:/g/personal/jarivera17_espe_edu_ec/EYjpR0n88ZxOl4TmPXanM5EBO4XJcIBtzESkOdyjV_eQWA?e=VoryV4
   
   5. CONCLUSIONES
 
